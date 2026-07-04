@@ -14,6 +14,7 @@
         <jenkins.baseline>2.555</jenkins.baseline>
         <jenkins.version>2.556</jenkins.version>
         <gitHubRepo>jenkinsci/${project.artifactId}-plugin</gitHubRepo>
+        <useBeta>true</useBeta>
     </properties>
     <groupId>com.sonyericsson.hudson.plugins.rebuild</groupId>
     <artifactId>rebuild</artifactId>
